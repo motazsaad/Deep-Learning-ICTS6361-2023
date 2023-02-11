@@ -21,6 +21,12 @@ Deep Learning ICTS6361 2023
 # References 
 * [DNN cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
 * [Deep Learning AI course](https://www.deeplearning.ai/courses/deep-learning-specialization/)
-
+* [Deep Learning Course at Stanford](https://cs230.stanford.edu/)
 # Video Lectures 
 * [Deep Learning Book](https://youtube.com/playlist?list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b)
+* [Deep Neural Networks by Andrew NG ](https://youtube.com/playlist?list=PLpFsSf5Dm-pd5d3rjNtIXUHT-v7bdaEIe)
+	* [DL.AI intro to DL](https://youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
+	* [DL.AI Improving Deep Neural Networks](https://youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
+	* [DL.AI Structuring Machine Learning Projects](https://youtube.com/playlist?list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b)
+	* [DL.AI Convolutional Neural Networks](https://youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
+	* [DL.AI Sequence Models](https://youtube.com/playlist?list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6)
