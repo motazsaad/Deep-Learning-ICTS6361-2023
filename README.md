@@ -35,3 +35,14 @@ Deep Learning ICTS6361 2023
 	* [DL.AI Sequence Models](https://youtube.com/playlist?list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6)
 	
 * [My viedo lectures](https://youtube.com/playlist?list=PL39RMbpB79NOmRg7j6eIJ_nZg8B4avBCP)
+
+# Pre-trained models repositories 
+* [Tensorflow hub](https://tfhub.dev/)
+* [TensorFlow Models & datasets](https://www.tensorflow.org/resources/models-datasets)
+* [TensorFlow Models](https://github.com/tensorflow/models)
+* [Keras Pre-Trained Models](https://www.learnopencv.com/keras-tutorial-transfer-learning-using-pre-trained-models/)
+* [Hugging Face](https://huggingface.co/models)
+* [Pytorch models](https://pytorch.org/vision/stable/models.html)
+* [Pytorch Hub](https://pytorch.org/hub/)
+* [Model Zoo](https://modelzoo.co/)
+* [Papers with code](https://paperswithcode.com/)
