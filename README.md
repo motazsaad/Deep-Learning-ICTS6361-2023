@@ -34,3 +34,4 @@ Deep Learning ICTS6361 2023
 	* [DL.AI Convolutional Neural Networks](https://youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
 	* [DL.AI Sequence Models](https://youtube.com/playlist?list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6)
 	
+* [My viedo lectures](https://youtube.com/playlist?list=PL39RMbpB79NOmRg7j6eIJ_nZg8B4avBCP)
