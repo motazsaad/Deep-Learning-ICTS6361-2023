@@ -24,6 +24,7 @@ Deep Learning ICTS6361 2023
 * [Deep Learning Course at Stanford](https://cs230.stanford.edu/)
 * [ML for everyone](https://vas3k.com/blog/machine_learning/)
 * [Math is Fun](https://www.mathsisfun.com/)
+* [Log likelyhood](http://rasbt.github.io/mlxtend/user_guide/classifier/LogisticRegression/)
 
 # Video Lectures 
 * [Deep Learning Book](https://youtube.com/playlist?list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b)
