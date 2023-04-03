@@ -1,0 +1,32 @@
+group info 
+
+
+-----
+
+choose pre-trained model 
+
+mention dataset used to train pre-trained model 
+
+
+---------
+
+choose dataset for finetuning 
+name dataset 
+dataset URL 
+
+dataB 
+
+
+
+-------------------------
+
+
+Implementation 
+1. split dataB into train / test 
+2. use pre-trained model to predict labels in dataB test part (performance before fine-tuning) 
+3. apply fine-tuning for pre-trained model using dataB train part 
+4. apply fine-tuned model on test part of dataB (prediction)
+5. Compare results in steps 2 and 4 (before & after) 
+
+
+

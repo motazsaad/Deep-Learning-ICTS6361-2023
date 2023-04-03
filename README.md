@@ -47,3 +47,10 @@ Deep Learning ICTS6361 2023
 * [Pytorch Hub](https://pytorch.org/hub/)
 * [Model Zoo](https://modelzoo.co/)
 * [Papers with code](https://paperswithcode.com/)
+
+# How to fine-tune (transfer learning) 
+* [PyTorch](https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
+* [Tensorflow](https://www.tensorflow.org/tutorials/images/transfer_learning)
+* [Tensorflow with TF Hub](https://www.tensorflow.org/tutorials/images/transfer_learning_with_hub)
+* [HuggingFace](https://huggingface.co/docs/transformers/training)
+* [HuggingFace with Keras](https://huggingface.co/course/chapter3/3?fw=tf)
