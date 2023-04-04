@@ -49,8 +49,8 @@ Deep Learning ICTS6361 2023
 * [Papers with code](https://paperswithcode.com/)
 
 # How to fine-tune (transfer learning) 
-* [PyTorch](https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
-* [Tensorflow](https://www.tensorflow.org/tutorials/images/transfer_learning)
-* [Tensorflow with TF Hub](https://www.tensorflow.org/tutorials/images/transfer_learning_with_hub)
-* [HuggingFace](https://huggingface.co/docs/transformers/training)
-* [HuggingFace with Keras](https://huggingface.co/course/chapter3/3?fw=tf)
+* [Fine Tune PyTorch Models](https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
+* [Fine Tune Tensorflow Models](https://www.tensorflow.org/tutorials/images/transfer_learning)
+* [Fine Tune Tensorflow Models with TF Hub](https://www.tensorflow.org/tutorials/images/transfer_learning_with_hub)
+* [Fine Tune HuggingFace Models](https://huggingface.co/docs/transformers/training)
+* [Fine Tune HuggingFace Models with Keras](https://huggingface.co/course/chapter3/3?fw=tf)
