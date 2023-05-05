@@ -1,0 +1,26 @@
+A Comprehensive Survey of AI-Generated Content (AIGC) A History of Generative AI from GAN to ChatGPT.pdf
+A Survey of Large Language Models.pdf
+Adversarial Reweighting for Partial Domain Adaptation.pdf
+Attention Is All You Need.pdf
+AudioGPT Understanding and Generating Speech, Music, Sound, and Talking Head.pdf
+Batch Normalization Accelerating Deep Network Training by Reducing Internal Covariate Shift.pdf
+CDTrans Cross-domain Transformer for Unsupervised Domain Adaptation.pdf
+Co-Tuning for Transfer Learning.pdf
+Cost-Effective Hyperparameter Optimization for Large Language Model Generation Inference.pdf
+Deep Residual Learning for Image Recognition.pdf
+EDA Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks.pdf
+Generative Adversarial Nets.pdf
+Improved Image Augmentation for Convolutional Neural Networks by Copyout and CopyPairing.pdf
+LLaMA-Adapter V2 Parameter-Efficient Visual Instruction Model.pdf
+On Evolving Attention Towards Domain Adaptation.pdf
+PaLM-E An Embodied Multimodal Language Model.pdf
+Pushing the Limits of Simple Pipelines for Few-Shot Learning External Data and Fine-Tuning Make a Difference.pdf
+RegNet Self-Regulated Network for Image Classification.pdf
+Revisiting Pretraining Objectives for Tabular Deep Learning.pdf
+Scaling up GANs for Text-to-Image Synthesis.pdf
+Select, Label, and Mix Learning Discriminative Invariant Feature Representations for Partial Domain Adaptation.pdf
+Shap-E Generating Conditional 3D Implicit Functions.pdf
+The Self-Optimal-Transport Feature Transform.pdf
+Visual ChatGPT Talking, Drawing and Editing with Visual Foundation Models.pdf
+You Only Look Once Unified, Real-Time Object Detection.pdf
+paper.list.txt
