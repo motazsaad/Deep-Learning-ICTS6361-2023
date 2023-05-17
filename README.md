@@ -27,6 +27,12 @@ Deep Learning ICTS6361 2023
 * [Math is Fun](https://www.mathsisfun.com/)
 * [Log likelyhood](http://rasbt.github.io/mlxtend/user_guide/classifier/LogisticRegression/)
 * [A Comprehensive Introduction to Different Types of Convolutions in Deep Learning | by Kunlun Bai | Towards Data Science](https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215)
+## Compare CNN architectures 
+* [Different Types of CNN Architectures Explained: Examples, May 2023](https://vitalflux.com/different-types-of-cnn-architectures-explained-examples/)
+* [Illustrated: 10 CNN Architectures, 2019](https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d)
+* [Best deep CNN architectures and their principles: from AlexNet to EfficientNet, 2021](https://theaisummer.com/cnn-architectures/)
+
+
 
 # Video Lectures 
 * [Deep Learning Book](https://youtube.com/playlist?list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b)
