@@ -23,6 +23,7 @@ Deep Learning ICTS6361 2023
 * [DNN cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
 * [Deep Learning AI course](https://www.deeplearning.ai/courses/deep-learning-specialization/)
 * [Deep Learning Course at Stanford](https://cs230.stanford.edu/)
+* [Deep Learning Course at MIT](http://introtodeeplearning.com/)
 * [ML for everyone](https://vas3k.com/blog/machine_learning/)
 * [Math is Fun](https://www.mathsisfun.com/)
 * [Log likelyhood](http://rasbt.github.io/mlxtend/user_guide/classifier/LogisticRegression/)
@@ -42,7 +43,8 @@ Deep Learning ICTS6361 2023
 	* [DL.AI Structuring Machine Learning Projects](https://youtube.com/playlist?list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b)
 	* [DL.AI Convolutional Neural Networks](https://youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
 	* [DL.AI Sequence Models](https://youtube.com/playlist?list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6)
-* [Stanford Deep Learning Course ](https://youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)	
+* [Stanford Deep Learning Course](https://youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)	
+* [MIT Deep Learning Course](https://www.youtube.com/watch?v=ySEx_Bqxvvo&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 * [My viedo lectures](https://youtube.com/playlist?list=PL39RMbpB79NOmRg7j6eIJ_nZg8B4avBCP)
 
 # Pre-trained models repositories 
